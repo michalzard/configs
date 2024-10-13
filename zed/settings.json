@@ -15,5 +15,5 @@
     "dark": "Catppuccin Mocha - No Italics"
   },
   "autosave": "on_focus_change",
-  "telemetry": {"diagnostics":false,"metrics": falseF}
+  "telemetry": { "diagnostics": false, "metrics": false }
 }
